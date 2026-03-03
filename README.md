@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @donghani
 # Donghan Kim, Ph.D.
 
 ### Professor
