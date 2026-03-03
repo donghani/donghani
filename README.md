@@ -1,5 +1,4 @@
-![HRI Lab Logo](20160129-hri-logo-white.png)
-
+---
 <img src="20160129-hri-logo-white.png" alt="HRI Lab Logo" width="752">
 ---
 
