@@ -1,5 +1,6 @@
 ---
 <img src="20160129-hri-logo-white.png" alt="HRI Lab Logo" width="752">
+
 ---
 
 # 🤖 Welcome to HRI Lab., Kyung Hee University
