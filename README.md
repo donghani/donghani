@@ -1,3 +1,18 @@
+
+## 🤖 Welcome to HRI Lab.
+
+Human-Robot Interaction Laboratory (HRI Lab.) utilizes the robot and autonomous systems to realize the vision of ubiquitous robot and deliver the required services.
+HRI Lab. concentrates on realistic research and development efforts to develop and deliver services and applications that have direct technical impact in the technology domain and social impact on the community.
+
+**Objectives:**
+
+- Research and development efforts in the area of intelligent robot, autonomous system development, and machine learning.
+- To investigate novel or innovative research ideas in the above-mentioned fields and their analysis, design, implementation, and testing in the real field of study.
+- Encourage and facilitate students in taking initiatives, conducting individual and group research and development work, and delivering original research results.
+- Establish collaboration with local and international research groups, research organizations, and industries to improve the overall research output and maintain the quality of research and development.
+
+---
+
 # Donghan Kim, Ph.D.
 
 ### Professor
@@ -34,14 +49,3 @@
 
 ---
 
-## 🤖 Welcome to HRI Lab.
-
-Human-Robot Interaction Laboratory (HRI Lab.) utilizes the robot and autonomous systems to realize the vision of ubiquitous robot and deliver the required services.
-HRI Lab. concentrates on realistic research and development efforts to develop and deliver services and applications that have direct technical impact in the technology domain and social impact on the community.
-
-**Objectives:**
-
-- Research and development efforts in the area of intelligent robot, autonomous system development, and machine learning.
-- To investigate novel or innovative research ideas in the above-mentioned fields and their analysis, design, implementation, and testing in the real field of study.
-- Encourage and facilitate students in taking initiatives, conducting individual and group research and development work, and delivering original research results.
-- Establish collaboration with local and international research groups, research organizations, and industries to improve the overall research output and maintain the quality of research and development.
