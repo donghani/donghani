@@ -1,7 +1,7 @@
 ---
 <img src="20160129-hri-logo-white.png" alt="HRI Lab Logo" width="752">
 
----
+
 
 # 🤖 Welcome to HRI Lab., Kyung Hee University
 
@@ -15,7 +15,7 @@ HRI Lab. concentrates on realistic research and development efforts to develop a
 - Encourage and facilitate students in taking initiatives, conducting individual and group research and development work, and delivering original research results.
 - Establish collaboration with local and international research groups, research organizations, and industries to improve the overall research output and maintain the quality of research and development.
 
----
+
 
 # Donghan Kim, Ph.D.
 
@@ -27,7 +27,7 @@ HRI Lab. concentrates on realistic research and development efforts to develop a
 - 🏢 **Location:** 1732 Deogyeong-daero, Giheung-gu, Yongin-si, Gyeonggi-do 17104, Korea
 - 📞 **Phone:** +82-31-201-3831
 
----
+
 
 ## 🔬 Research Interests
 
@@ -51,5 +51,4 @@ HRI Lab. concentrates on realistic research and development efforts to develop a
 - **Senior Engineer**, Samsung Electronics, Korea, 2004-2007
 - **Post doc.**, University of Illinois at Urbana-Champaign, USA, 2003
 
----
 
